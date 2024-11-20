@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm mastewal degu</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 👨‍💻 portfolio [https://frabjous-crepe-1e39ae.netlify.app/](https://incandescent-semolina-08ab38.netlify.app/)
 
 - 📫 How to reach me **mastewaldegu0@gmail.com**
 
